@@ -5,9 +5,6 @@
 - 📫 How to reach me laurinealuoch7@gmail.com
 
 <!-- Language Stats-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aluoch-dev&show_icons=true)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluoch-dev"/>
 
 <!---
 aluoch-dev/aluoch-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
