@@ -5,7 +5,6 @@
 - 📫 How to reach me laurinealuoch7@gmail.com
 
 <!-- Language Stats-->
-LANGUAGE STATS
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluoch-dev"/>
 
 <!---
