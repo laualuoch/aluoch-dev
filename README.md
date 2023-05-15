@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @aluoch-dev
 - 👀 I’m interested in all things software engineering
-- 🌱 I’m currently learning Advanced kotlin, and Android development.
+- 🌱 I’m currently learning Advanced kotlin, Android development, Redis and Docker through an interactive earner-app taylored for young learners.
 - 💞️ I’m looking to collaborate on socially impactful projects. 
 - 📫 How to reach me laurinealuoch7@gmail.com
+
+
+REACH ME: 
 
 <!-- Language Stats-->
 
