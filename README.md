@@ -1,7 +1,3 @@
-                                                                                                                  ![](https://visitor-badge.laobi.icu/badge?page_id=aluoch-dev.aluoch-dev)
-                                                                                                                  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aluoch-dev&theme=tokyonight)
-
-
 - 👋 Hi, I’m @aluoch-dev
 - 👀 I’m interested in all things software engineering
 - 🌱 I’m currently learning Advanced Kotlin, Android development, Redis, and Docker through an interactive learning app tailored for young learners.
