@@ -1,3 +1,5 @@
+![Visits:](https://visitor-badge.laobi.icu/badge?page_id=aluoch-dev.aluoch-dev)
+
 - 👋 Hi, I’m @aluoch-dev
 - 👀 I’m interested in all things software engineering
 - 🌱 I’m currently taking a course on DevOps while building an application to organize book quotes for bookish fellows in Kotlin, Jetpack Compose, and Firebase.
