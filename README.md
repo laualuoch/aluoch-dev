@@ -7,7 +7,7 @@
 REACH ME: 
 
 <!-- Language Stats-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aluoch-dev)](https://github.com/anuraghazra/github-readme-stats)
+![Aluoch's GitHub stats](https://github-readme-stats.vercel.app/api?username=aluoch-dev&show_icons=true)
 <!---
 aluoch-dev/aluoch-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
